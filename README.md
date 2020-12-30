@@ -23,3 +23,5 @@ The following is a list of our current product areas:
 - **web:** Web applications (Sites, SPA, Internet portals, etc)
 - **bot:** Bots on different platforms (Telegram, Discord, GitHub)
 - **other:** Any other platforms not included in the previous ones
+
+> I hope you will not abuse the creation issues in the public repository
