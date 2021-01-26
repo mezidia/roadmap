@@ -1,6 +1,6 @@
 # Mezidia public roadmap
 
-In this repository, you can find the [official GitHub public product roadmap](https://github.com/mezidia/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [Mezidia Roadmap main discussion page](https://github.com/mezidia/roadmap/discussions/1). 
+In this repository, you can find the [official Mezidia public product roadmap](https://github.com/mezidia/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [Mezidia Roadmap main discussion page](https://github.com/mezidia/roadmap/discussions/1). 
 
 ## Guide to the roadmap
 
@@ -23,5 +23,4 @@ The following is a list of our current product areas:
 - **web:** Web applications (Sites, SPA, Internet portals, etc)
 - **bot:** Bots on different platforms (Telegram, Discord, GitHub)
 - **other:** Any other platforms not included in the previous ones
-
-> I hope you will not abuse the creation issues in the public repository
+- in _future_ we will add **more** labels
