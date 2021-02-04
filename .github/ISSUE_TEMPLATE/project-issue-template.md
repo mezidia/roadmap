@@ -11,7 +11,7 @@ assignees: ''
 Describe what your project does in general.
 
 ### Intended Outcome
-Describe what result you can get from your project.
+Describe what your project will outcome in general.
 
 ### How will it work?
 Describe exactly how your project works.
